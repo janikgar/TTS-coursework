@@ -1,0 +1,30 @@
+.block {
+	height: 10em;
+	width: 10em;
+	display: inline-block;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: "Helvetica", "Arial", sans-serif;
+	vertical-align: middle;
+	line-height: 10em;
+}
+.red {
+	border-top-left-radius: 10em;
+	border-bottom: 3px solid white;
+	background-color: red;
+}
+.yellow {
+	border-top-right-radius: 10em;
+	border-bottom: 3px solid white;
+	background-color: yellow;
+	color: black;
+}
+.blue {
+	border-bottom-left-radius: 10em;
+	background-color: blue;
+}
+.green {
+	border-bottom-right-radius: 10em;
+	background-color: green;
+}
