@@ -1,0 +1,19 @@
+.jumbotron {
+	background-image: url('../../assets/images/DSC_5018_DxO.jpg');
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+.jumbotron .shade {
+	padding: 20px;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.jumbotron p {
+	text-align: right;
+}
+
+footer {
+	text-align: center;
+}
